@@ -26,14 +26,17 @@
   },
   "normalization": {
     "sourceRepository": "https://github.com/pontjs/pontx-api-metadata",
-    "sourceCommit": "54a7a3b5058248c7efce2a34f0d0e7b1e74f9dab",
+    "sourceCommit": "c51ef1118e478282d8bd0a5694966a301949747d",
     "locale": "en-US",
     "externalReferences": 0,
     "removedDisplayExtensions": [
       "x-codeSamples"
     ],
     "preservedComponentExamples": 152,
-    "preservedWebhooks": 2
+    "preservedWebhooks": 2,
+    "derivedSafeLeafExamples": 675,
+    "omittedUnmappedGenericStrings": 105,
+    "genericPlaceholderExamples": 0
   },
   "generator": {
     "repository": "https://github.com/pontjs/pontx",
@@ -53,7 +56,7 @@
   },
   "output": {
     "file": "openapi.json",
-    "sha256": "7ecd68d2d9a76835d7afab4c3be6dc4d30e0af1c7d50f3672b5512fa4957bfe6",
+    "sha256": "95a0f2de3ba688ae252e4c53226c6dc78fd873fab40c0d4c7a76b05247ea5b80",
     "paths": 67,
     "operations": 73,
     "schemas": 217,
