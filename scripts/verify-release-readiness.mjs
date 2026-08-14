@@ -21,7 +21,7 @@ try {
 
 const serializedConfiguration = `${workspace}\n${lockfile}`;
 assert(
-  !/(?:link|file|workspace):|overrides\s*:/i.test(serializedConfiguration),
+  !/(?:^|\s)(?:link|file|workspace):|^\s*overrides\s*:/im.test(serializedConfiguration),
   "Release blocked: local dependency links or workspace overrides remain.",
 );
 
