@@ -1,0 +1,73 @@
+{
+  "name": "@pontx/dropbox-sign",
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.22.0",
+  "description": "Type-safe Dropbox Sign API SDK and safety-first CLI generated from the complete official OpenAPI contract",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "LICENSES",
+    "THIRD_PARTY_NOTICES.md"
+  ],
+  "scripts": {
+    "build": "tsup && pontx cli build",
+    "contract:verify": "node scripts/verify-contract.mjs",
+    "dev": "tsup --watch",
+    "pontx": "pontx generate",
+    "generate:check": "pnpm pontx && git diff --exit-code -- src/apis",
+    "type-check": "tsc --noEmit",
+    "test:unit": "node scripts/run-unit-tests.mjs",
+    "test:e2e": "node --test test/e2e/*.test.mjs",
+    "quality": "pnpm contract:verify && pnpm generate:check && pnpm type-check && pnpm test:unit && pnpm build && pnpm test:e2e",
+    "prepublishOnly": "pnpm quality"
+  },
+  "keywords": [
+    "dropbox-sign",
+    "hellosign",
+    "esignature",
+    "signature",
+    "openapi",
+    "api",
+    "sdk",
+    "typescript"
+  ],
+  "author": "Pontx Contributors",
+  "license": "MIT",
+  "homepage": "https://pontx.dev/en/sdks/dropbox-sign",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pontjs/dropbox-sign.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsup": "^8.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.6.0",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "@pontx/sdk": "1.0.0-beta.3",
+    "pontx": "1.0.0-beta.11"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "pontx": {
+    "specDir": "dist/bin"
+  },
+  "bin": {
+    "pontx-dropbox-sign": "./dist/bin/cli.cjs"
+  }
+}

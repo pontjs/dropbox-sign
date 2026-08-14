@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "status": "release-candidate",
+  "verifiedAt": "2026-08-14",
+  "source": {
+    "repository": "https://github.com/hellosign/hellosign-openapi",
+    "revision": "f0c7887f2f56fb7a082b5db78a09856df2cb6ccf",
+    "file": "openapi-fern.yaml",
+    "url": "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml",
+    "sha256": "39dfd012ff95f198b56e953d647daeeba030c0ecc188e9afbd5d3f6417518312",
+    "openapiVersion": "3.0.3",
+    "declaredLicense": "MIT"
+  },
+  "contractEquivalence": {
+    "legacySource": "openapi.yaml",
+    "legacyUrl": "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi.yaml",
+    "legacySha256": "7535b8f1a18865de14f6e31e2e648fe31f6340d6ae120215425d6a6021ada25c",
+    "result": "equivalent",
+    "enforcedBy": "pontx-api-metadata/scripts/import-dropbox-sign-candidate.mjs"
+  },
+  "repositoryLicense": {
+    "spdx": "Apache-2.0",
+    "url": "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/LICENSE",
+    "sha256": "9a2384fe250ebd5ca3854b11fa2d0c2855e95284f6326851ebe6e29cfa5e424a",
+    "retainedAs": "LICENSES/Apache-2.0-upstream.txt"
+  },
+  "normalization": {
+    "sourceRepository": "https://github.com/pontjs/pontx-api-metadata",
+    "sourceCommit": "54a7a3b5058248c7efce2a34f0d0e7b1e74f9dab",
+    "locale": "en-US",
+    "externalReferences": 0,
+    "removedDisplayExtensions": [
+      "x-codeSamples"
+    ],
+    "preservedComponentExamples": 152,
+    "preservedWebhooks": 2
+  },
+  "generator": {
+    "repository": "https://github.com/pontjs/pontx",
+    "sourceCommit": "22bce7238a65e6b7e5e73d48bfa4a9f497f52e98",
+    "requiredPackages": {
+      "@pontx/sdk": "1.0.0-beta.3",
+      "pontx": "1.0.0-beta.11"
+    }
+  },
+  "riskReview": {
+    "productionCallsMade": false,
+    "credentialFixturesOnly": true,
+    "proxyEnabledOperations": 0,
+    "mutationPreviewRequired": true,
+    "mutationConfirmationBoundToExactRequest": true,
+    "binaryResponsesRequireOutputFile": true
+  },
+  "output": {
+    "file": "openapi.json",
+    "sha256": "7ecd68d2d9a76835d7afab4c3be6dc4d30e0af1c7d50f3672b5512fa4957bfe6",
+    "paths": 67,
+    "operations": 73,
+    "schemas": 217,
+    "eventCallbackSchemas": 27,
+    "dualRequestMediaOperations": 19,
+    "mutationOperations": 46,
+    "binaryOperations": 3
+  }
+}
