@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@pontx/sdk':
-        specifier: 1.0.0-beta.3
-        version: 1.0.0-beta.3(typescript@5.9.3)
+        specifier: 1.0.0-beta.4
+        version: 1.0.0-beta.4(typescript@5.9.3)
       pontx:
         specifier: 1.0.0-beta.11
         version: 1.0.0-beta.11
@@ -502,8 +502,8 @@ packages:
     cpu: [x64]
     os: [linux]
 
-  '@pontx/sdk@1.0.0-beta.3':
-    resolution: {integrity: sha512-EotRc0NDTI/MM3TautZ2aH0neaze6pp68edK1ZE71cfUxzUpyGM0+NBFR6+sjWpCwF9BXRFfTCxX153ITzW0EQ==}
+  '@pontx/sdk@1.0.0-beta.4':
+    resolution: {integrity: sha512-u07hUFHmtoH1ZBIrJFpPNsvMrqszp0JFcFj0172dDqFC+fq1rP9vn62Adii3zFhap7lexYYTDxKo7e4eZyvhsg==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
       typescript: '>=5.0.0'
@@ -1366,7 +1366,7 @@ snapshots:
   '@napi-rs/lzma-linux-x64-gnu@1.5.1':
     optional: true
 
-  '@pontx/sdk@1.0.0-beta.3(typescript@5.9.3)':
+  '@pontx/sdk@1.0.0-beta.4(typescript@5.9.3)':
     dependencies:
       '@pontx/spec': 1.0.0-beta.3
     optionalDependencies:

@@ -59,7 +59,7 @@
     "vitest": "^3.2.4"
   },
   "dependencies": {
-    "@pontx/sdk": "1.0.0-beta.3",
+    "@pontx/sdk": "1.0.0-beta.4",
     "pontx": "1.0.0-beta.11"
   },
   "engines": {
