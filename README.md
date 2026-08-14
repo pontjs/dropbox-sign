@@ -67,6 +67,10 @@ pontx-dropbox-sign call signatureRequest signatureRequestFiles \
 
 See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The metadata source contains the reproducible importer, source hashes, bilingual prose, and admission gates. The SDK is not published until those gates and the required Pontx core releases pass.
 
+## Release boundary
+
+Publishing is operator-owned. `prepublishOnly` refuses to continue until every exact Pontx dependency exists in the npm registry, a frozen `pnpm-lock.yaml` is checked in, and no local `link:`, `file:`, or workspace override remains. After those prerequisites exist it reruns the complete quality suite before npm can publish the package.
+
 ## License
 
 SDK code is MIT licensed. Upstream OpenAPI material retains its own notices and attribution.

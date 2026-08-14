@@ -24,11 +24,12 @@
     "dev": "tsup --watch",
     "pontx": "pontx generate",
     "generate:check": "pnpm pontx && git diff --exit-code -- src/apis",
+    "release:verify": "node scripts/verify-release-readiness.mjs && pnpm quality",
     "type-check": "tsc --noEmit",
     "test:unit": "node scripts/run-unit-tests.mjs",
     "test:e2e": "node --test test/e2e/*.test.mjs",
     "quality": "pnpm contract:verify && pnpm generate:check && pnpm type-check && pnpm test:unit && pnpm build && pnpm test:e2e",
-    "prepublishOnly": "pnpm quality"
+    "prepublishOnly": "pnpm release:verify"
   },
   "keywords": [
     "dropbox-sign",
