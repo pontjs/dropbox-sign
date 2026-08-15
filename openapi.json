@@ -201,11 +201,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -338,11 +336,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -456,11 +452,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -586,11 +580,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -721,11 +713,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -850,11 +840,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -997,11 +985,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -1120,11 +1106,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -1256,11 +1240,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -1398,11 +1380,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -1538,11 +1518,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -1675,11 +1653,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -1815,11 +1791,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -1939,11 +1913,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -2049,11 +2021,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -2173,11 +2143,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -2298,11 +2266,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -2593,11 +2559,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -2710,11 +2674,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -2833,11 +2795,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -2939,11 +2899,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -3090,11 +3048,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -3208,11 +3164,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -3344,11 +3298,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -3467,11 +3419,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -3591,11 +3541,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -3715,11 +3663,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -3837,11 +3783,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -3970,11 +3914,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -4106,11 +4048,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -4233,11 +4173,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -4371,11 +4309,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -4506,11 +4442,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -4662,11 +4596,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -4825,11 +4757,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -4985,11 +4915,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -5146,11 +5074,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -5313,11 +5239,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -5449,11 +5373,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -5596,11 +5518,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -5731,11 +5651,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -5890,11 +5808,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -6012,11 +5928,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -6163,11 +6077,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -6292,11 +6204,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -6431,11 +6341,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -6564,11 +6472,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -6711,11 +6617,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -6866,11 +6770,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -6993,11 +6895,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -7093,11 +6993,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -7198,11 +7096,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -7313,11 +7209,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -7442,11 +7336,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -7558,11 +7450,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -7701,11 +7591,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -7837,11 +7725,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -7990,11 +7876,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -8137,11 +8021,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -8292,11 +8174,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -8439,11 +8319,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -8562,11 +8440,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -8719,11 +8595,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -8854,11 +8728,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -9000,11 +8872,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -9131,11 +9001,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -9291,11 +9159,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {
@@ -9428,11 +9294,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -9588,11 +9452,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -9737,11 +9599,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -9885,11 +9745,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -10023,11 +9881,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},
@@ -10174,11 +10030,9 @@
           "https://raw.githubusercontent.com/hellosign/hellosign-openapi/f0c7887f2f56fb7a082b5db78a09856df2cb6ccf/openapi-fern.yaml"
         ],
         "x-pontx-verified-at": "2026-08-14",
-        "x-pontx-proxy-enabled": false,
-        "x-pontx-proxy-disabled-reason": "Candidate pre-admission only; signing, delivery, file, account, team, OAuth, callback, and fax operations require endpoint-level safety and data-handling review.",
         "x-pontx-request-examples": {
           "default": {
-            "summary": "Official OAS-backed pre-admission request",
+            "summary": "Official OAS-backed request example",
             "request": {
               "path": {},
               "query": {},

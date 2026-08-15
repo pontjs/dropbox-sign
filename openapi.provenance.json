@@ -49,14 +49,14 @@
   "riskReview": {
     "productionCallsMade": false,
     "credentialFixturesOnly": true,
-    "proxyEnabledOperations": 0,
     "mutationPreviewRequired": true,
     "mutationConfirmationBoundToExactRequest": true,
-    "binaryResponsesRequireOutputFile": true
+    "binaryResponsesRequireOutputFile": true,
+    "executionEligibleOperations": 73
   },
   "output": {
     "file": "openapi.json",
-    "sha256": "95a0f2de3ba688ae252e4c53226c6dc78fd873fab40c0d4c7a76b05247ea5b80",
+    "sha256": "764f3de37b2e843a6569ecab63920d6058a9bb233c6f7f86bf64bc7c692530fa",
     "paths": 67,
     "operations": 73,
     "schemas": 217,
