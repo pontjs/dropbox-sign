@@ -91,14 +91,14 @@ const credentialValue = /\b(?:bearer|basic)\s+[A-Za-z0-9+/=._-]+|(?:api[-_]?key|
 for (const { path, method, operation } of operations) {
   const label = `${method.toUpperCase()} ${path}`;
   assert.equal(
-    operation["x-pontx-proxy-enabled"],
+    Object.hasOwn(operation, "x-pontx-proxy-enabled"),
     false,
-    `${label} must remain disabled for proxy execution before admission`,
+    `${label} must not carry a policy-based execution disablement`,
   );
-  assert.match(
-    operation["x-pontx-proxy-disabled-reason"] ?? "",
-    /candidate|pre-admission|review/i,
-    `${label} needs an explicit pre-admission proxy reason`,
+  assert.equal(
+    Object.hasOwn(operation, "x-pontx-proxy-disabled-reason"),
+    false,
+    `${label} must not carry a policy-based execution disablement reason`,
   );
   assert.equal(
     operation["x-pontx-documentation-status"],
@@ -166,6 +166,7 @@ assert.equal(provenance.output.eventCallbackSchemas, 27);
 assert.equal(provenance.output.dualRequestMediaOperations, 19);
 assert.equal(provenance.output.mutationOperations, 46);
 assert.equal(provenance.output.binaryOperations, 3);
+assert.equal(provenance.riskReview.executionEligibleOperations, 73);
 
 console.log(
   `Verified Dropbox Sign contract ${contractSha256}: ` +
