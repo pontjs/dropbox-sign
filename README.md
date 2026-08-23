@@ -1,5 +1,7 @@
 # @pontx/dropbox-sign
 
+[Pontx Hub SDK guide](https://pontx.dev/en/sdks/dropbox-sign)
+
 Type-safe Dropbox Sign API SDK and safety-first CLI generated from the complete official OpenAPI documentation contract.
 
 This is a Pontx community SDK, not an official Dropbox product. Its checked-in contract is reproducibly derived from Dropbox Sign's official OpenAPI repository at revision `f0c7887f2f56fb7a082b5db78a09856df2cb6ccf`.
